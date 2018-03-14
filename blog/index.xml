@@ -6,10 +6,23 @@
     <description>Recent content in Blogs on Chi&#39;s site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Nov 2017 11:58:39 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 14 Mar 2018 10:51:16 -0500</lastBuildDate>
     
 	<atom:link href="https://chiyuan1126.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Writing Skills</title>
+      <link>https://chiyuan1126.github.io/blog/testcopy/</link>
+      <pubDate>Wed, 14 Mar 2018 10:51:16 -0500</pubDate>
+      
+      <guid>https://chiyuan1126.github.io/blog/testcopy/</guid>
+      <description>前半句介绍别的方法好的地方，后半句转折存在的问题  xxxx. However, they also suffer from the problem of lack of standardization introduced by these pipeline steps and workflows processes
+ To address this, we introduce
+别再用 more and more important啦 The importance of &amp;hellip;. is increasingly apparent in &amp;hellip;.
+有很多方法都尝试解决这个问题 There have been numerous methods that attempt to circumvent this problem
+我们的方法的灵感源自于&amp;hellip; Our technique is inspired by the recent work in learning vector representations of words using neural networks (Bengio et al.</description>
+    </item>
     
     <item>
       <title>Hipster Ipsum</title>
